@@ -1,0 +1,90 @@
+html,
+body {
+   margin:0;
+   padding:0;
+   height:100%;
+}
+
+body {
+  padding-top: 50px;
+  background: url(/static/images/bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+    color: #eee;
+    text-shadow: 1px 1px 6px rgba(255, 255, 255, 0.5);
+    font-family: 'Anivers-Regular';
+}
+
+.title {
+    font-size: 200px;
+    text-shadow: 0px 5px 0px rgba(127, 127, 127, 0.7);
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.subtitle {
+    font-size: 38px;
+    text-shadow: 1px 2px 3px rgba(127, 127, 127, 0.5);
+    color: rgba(255, 255, 255, 0.9);
+}
+
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.form-signin {
+  max-width: 600px;
+  padding: 15px;
+  margin: 0 auto;
+}
+.form-signin .form-signin-heading,
+.form-signin .checkbox {
+  margin-bottom: 10px;
+}
+.form-signin .checkbox {
+  font-weight: normal;
+}
+.form-signin .form-control:focus {
+  z-index: 2;
+}
+.form-signin input[type="text"] {
+  margin-bottom: 10px;
+    background-color: rgba(245, 245, 245, 1.0);
+    font-size: 30px;
+    height: auto;
+    float: left;
+    max-width: 400px;
+    margin-right: 10px;
+
+}
+.form-signin button {
+    font-size: 30px;
+    max-width: 140px;
+    float: left;
+    height: 56px;
+}
+
+footer {
+    font-size: 20px;
+    text-shadow: 0px 0px 0px rgba(127, 127, 127, 1);
+    color: #555;
+
+
+   position:absolute;
+   bottom:0;
+   width:97%;
+   height:60px;   /* Height of the footer */
+}
+
+
+#container {
+   min-height:100%;
+   position:relative;
+}
+
+.centertext {
+    text-align: center;
+}
+@font-face {font-family: 'Anivers-Regular';src: url('/static/fonts/289EF9_0_0.eot');src: url('/static/fonts/289EF9_0_0.eot?#iefix') format('embedded-opentype'),url('/static/fonts/289EF9_0_0.woff') format('woff'),url('/static/fonts/289EF9_0_0.ttf') format('truetype');}
