@@ -1,0 +1,1 @@
+Welcome to ${project}! This is a Python web application.
