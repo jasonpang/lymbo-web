@@ -55,7 +55,7 @@
             <div class="col-md-6">
             <div class="alert alert-danger alert-dismissable">
                 <button type="button" class="close" data-dismiss="alert" aria-hidden="true">&times;</button>
-                    <h4><strong>Yikes!</strong> You can't subscribe with that email - please try again.</h4>
+                    <h4><strong>Yikes!</strong> You can't subscribe with that email.</h4>
              </div>
             </div>
             <div class="col-md-3"></div>
