@@ -1,0 +1,4 @@
+# PyCharm files
+*.iws
+workspace.xml
+tasks.xml
