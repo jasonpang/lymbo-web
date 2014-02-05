@@ -18,6 +18,6 @@ Tech Stack
 ----------
 
 * Front End
-  * [http://www.pylonsproject.org/](Pyramid web framework)
+  * [Pyramid web framework](http://www.pylonsproject.org/)
         * Mako templates
   * Hosted on Heroku
